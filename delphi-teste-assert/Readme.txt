@@ -1,0 +1,1 @@
+Projeto para exemplificar o uso do Assert.
