@@ -1,0 +1,1 @@
+Exemplos dos padrões de projeto.
